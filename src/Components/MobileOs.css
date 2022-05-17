@@ -3,3 +3,8 @@
     flex-direction: column;
     align-items: flex-start;
 }
+.MobileOs ul{
+      display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
